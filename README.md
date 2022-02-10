@@ -1,6 +1,6 @@
 ## Bruno Barbosa
 
-- 📚 Estudando: Desenvolvimento Web - Front-end
+- 📚 I'm currently learning: Front-end | Back-end
 
 <div align="center">
   <a href="https://github.com/bsbarbosa">
