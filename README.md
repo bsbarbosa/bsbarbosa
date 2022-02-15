@@ -1,11 +1,12 @@
 ## Bruno Barbosa
 
 - 📚 I'm currently learning: Front-end | Back-end
+##
 
 <div align="center">
   <a href="https://github.com/bsbarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsbarbosa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsbarbosa&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsbarbosa&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bsbarbosa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bsbarbosa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
